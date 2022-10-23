@@ -14,7 +14,7 @@
 | Leticia Olivera | She/Her | Daria | [@LeticiaOlivera](https://github.com/LeticiaOlivera)| ![]([https://github.com/account](https://avatars.githubusercontent.com/u/106000118?s=400&u=f73f0e7f6f7dbad5f3883ce988467d017801c716&v=4)) |
 | Jesús A. Rodríguez  | He / El  | Avatar: la leyenda de Aang | [@JARR97](https://github.com/JARR97)| ![](https://avatars.githubusercontent.com/JARR97?s=64) 
 | Lucero Luciano | She/Ella | Rugrats | [@LuceroLuciano](https://github.com/LuceroLuciano)| ![]([https://github.com/account](https://avatars.githubusercontent.com/u/83784155?s=400&u=5acda789d6e653941b65be7c6012a10371ab75e9&v=4)) |
-
+| Nelson Ortiz | He/El | One punch man | [@NelsonOrtizLeal](https://github.com/NelsonOrtizLeal)| ![](https://avatars.githubusercontent.com/u/114643735?v=4) |
 
 
 
